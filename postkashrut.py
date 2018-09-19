@@ -33,7 +33,7 @@ def mengetik(s):
         sys.stdout.write(c)
         sys.stdout.flush()
         time.sleep(random.random() * 0.3)
-mengetik('&_<︻╦̵̵͇̿̿̿̿ vist our site ╤───.......┣▇ https://www.blackhat-x4.ga  ▇▇▇▇▇═─ ')
+mengetik('&_<︻╦̵̵͇̿̿̿̿ vist our site ╤───.......┣▇ https://zeroday-sudan.ml  ▇▇▇▇▇═─ ')
 
 
 

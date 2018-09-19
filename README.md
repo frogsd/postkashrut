@@ -9,15 +9,12 @@ It analyzes the post in the Wi-Fi network and gives you information about haslay
 
 
 
-Please visit our website and you will find great things "https://www.blackhat-x4.ga"
+Please visit our website and you will find great things "https://zeroday-sudan.ml"
 
 
-To join our family in WatasaTo join our family in Whatsapp : 
+To join our family in WatasaTo join our family in Telegram : 
 
 
-https://chat.whatsapp.com/62EBLE1auXJ2fgNECEf3iq
-
-
-
+https://t.me/world_blackhat
 
 Thank you for download the script and appreciating your trust in us
